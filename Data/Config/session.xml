@@ -1,6 +1,9 @@
 <NotepadPlus>
     <Session activeView="0">
-        <mainView activeIndex="0" />
+        <mainView activeIndex="0">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1008" startPos="226" endPos="226" selMode="0" lang="Visual Basic" encoding="-1" filename="C:\Users\barber.timothy20\Documents\Github\ComputerSetup\setup.vbs" backupFilePath="" originalFileLastModifTimestamp="-1862932632" originalFileLastModifTimestampHigh="30729808" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="1769104211" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="924" startPos="0" endPos="0" selMode="0" lang="Visual Basic" encoding="-1" filename="C:\Users\barber.timothy20\Documents\Github\ComputerSetup\Architecture.vbs" backupFilePath="C:\Users\barber.timothy20\Documents\Github\NotepadPlusPlusPortable\App\Notepad++\backup\Architecture.vbs@2019-03-29_103131" originalFileLastModifTimestamp="-1042878762" originalFileLastModifTimestampHigh="30729804" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="-956291072" mapWrapIndentMode="-1" mapIsWrap="no" />
+        </mainView>
         <subView activeIndex="0" />
     </Session>
 </NotepadPlus>
